@@ -8,7 +8,7 @@
 
 const TOKEN_PROGRAM_ID = new web3.PublicKey("");  //REPLACE_WITH_TOKEN_PROGRAM_ID
 
-describe("fresa_coin", () => {
+describe("Fresa Coin", () => {
   let mint: web3.PublicKey;
   let userTokenAccount: web3.PublicKey;
   let stakingPool: web3.PublicKey;
