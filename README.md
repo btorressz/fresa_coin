@@ -3,6 +3,8 @@
 
 Fresa Coin is a blockchain-based program built using the Anchor framework on the Solana blockchain. The program implements several functionalities to support a decentralized ecosystem, including token minting, staking rewards, governance, lottery, and token burning. This project was developed in the Solana Playground IDE.(https://beta.solpg.io/)
 
+devnet:(https://explorer.solana.com/address/3JNQ7rDqxbrM14B8uhSWMjkvTWTPSWvCWsk9dwEPHUyn?cluster=devnet)
+
 ## Features
 
 ### Token Minting
